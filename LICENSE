@@ -1,0 +1,23 @@
+MIT License Documentation
+Copyright (c) 2025 Dino Hatibović
+License Overview
+This project is released under the MIT License, which is one of the most popular and permissive open-source licenses in the software industry. By choosing this license, I aim to foster a collaborative environment where my code can be used, modified, and distributed with minimal restrictions, provided that the original copyright and license notice are included in any significant portions of the software.
+1. Permission and Usage Rights
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to:
+Use: You may run this software for any purpose, including commercial projects.
+Modify: You are free to change, enhance, or adapt the source code to fit your specific needs.
+Merge and Publish: You can integrate this code into larger projects and publish the resulting work.
+Distribute: You can share the original or modified code with others.
+Sublicense and Sell: You even have the right to sublicense the software or sell copies of it, providing maximum flexibility for innovation.
+2. Conditions of Use
+The primary condition for using this software is simple: The above copyright notice and this permission notice must be included in all copies or substantial portions of the Software.
+This ensures that the original authorship is recognized and that subsequent users are aware of their rights and the limitations of liability associated with this project.
+3. Disclaimer of Liability (No Warranty)
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+In no event shall the authors or copyright holders (Dino Hatibović) be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the software or the use or other dealings in the software. This section protects the developer from legal repercussions should the software malfunction or fail to meet a user's specific expectations in their unique environment.
+Why MIT? (Developer's Intent)
+I have selected the MIT License for the Genesis project because:
+Simplicity: It is short, easy to understand, and does not require a legal degree to interpret.
+Permissiveness: It encourages other developers to experiment with my code without fear of complex legal entanglements.
+Industry Standard: Most major libraries and frameworks use this license, making this repository consistent with global open-source practices.
+For any questions regarding the use of this software beyond what is covered here, feel free to contact me through my GitHub profile.
