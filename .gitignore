@@ -1,0 +1,79 @@
+----------------------------------------------------------------------
+Python / Core Ignore Rules (Osnovna Python pravila)
+----------------------------------------------------------------------
+Byte-compiled / optimized / DLL files
+Python kompajlira kod u ove fajlove radi brzine, nisu potrebni na GitHubu
+pycache/
+*.py[cod]
+*$py.class
+C extensions (ako koristiš biblioteke pisane u C-u)
+*.so
+Distribution / Packaging
+Folderi koji nastaju kada praviš .exe ili instalacioni paket
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+----------------------------------------------------------------------
+Virtual Environments (Lokalna okruženja)
+----------------------------------------------------------------------
+Nikada ne šalji venv foldere jer su specifični za tvoj računar
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+----------------------------------------------------------------------
+Editor & IDE Settings (Podešavanja editora)
+----------------------------------------------------------------------
+VS Code (čuva tvoja lična podešavanja prozora, historiju itd.)
+.vscode/
+Izuzetak: ponekad želimo dijeliti specifične konfiguracije, ali generalno se ignoriše
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+PyCharm / IntelliJ
+.idea/
+Sublime Text
+*.sublime-workspace
+----------------------------------------------------------------------
+OS Generated Files (Sistemsko smeće)
+----------------------------------------------------------------------
+macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+----------------------------------------------------------------------
+Project Specific & Sensitive Data (Osjetljivi podaci)
+----------------------------------------------------------------------
+Environment variables (API ključevi, tajne šifre) - OVO JE KRITIČNO
+.env
+.env.local
+.env.*.local
+Jupyter Notebook checkpoints (ako koristiš Notebooks)
+.ipynb_checkpoints
+Logs and Databases (Logovi i lokalne baze podataka)
+*.log
+*.sqlite
+*.db
