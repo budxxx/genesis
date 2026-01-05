@@ -26,8 +26,8 @@ The core of this project is a script that takes complex information about **Web4
 ## ⚙️ How to Use
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/budxxx/genesis.git](https://github.com/budxxx/genesis.git)
-    ```
+    git clone https://github.com/budxxx/genesis.git
+    
 2.  **Run the script:**
     ```bash
     python genesis.py
